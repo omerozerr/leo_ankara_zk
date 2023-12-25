@@ -1,4 +1,4 @@
-// The program input for templateankara/src/main.leo
+// The program input for templateankara42345/src/main.leo
 [main]
 public a: u32 = 1u32;
 b: u32 = 2u32;
